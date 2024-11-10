@@ -1,0 +1,16 @@
+Light load - One-Choice: 3.45
+Heavy load - One-Choice: 27.80
+Light load - Two-Choice: 1.40
+Heavy load - Two-Choice: 1.90
+Light load - (1 + 0.1)-Choice: 1.85
+Heavy load - (1 + 0.1)-Choice: 2.05
+Light load - (1 + 0.5)-Choice: 2.45
+Heavy load - (1 + 0.5)-Choice: 4.50
+Light load - (1 + 0.7)-Choice: 2.60
+Heavy load - (1 + 0.7)-Choice: 7.90
+Light load - 3-Choice: 1.05
+Heavy load - 3-Choice: 1.10
+Light load - 4-Choice: 1.00
+Heavy load - 4-Choice: 1.00
+Light load - 5-Choice: 1.00
+Heavy load - 5-Choice: 1.00
